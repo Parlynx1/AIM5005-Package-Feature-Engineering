@@ -4,21 +4,6 @@
 **Email**: parlynx1@yu.edu  
 **GitHub Repository**: [AIM5005-Package-Feature-Engineering](https://github.com/Parlynx1/AIM5005-Package-Feature-Engineering)
 
----
-
-### Install
-1. `git clone git@github.com:Parlynx1/AIM5005-Package-Feature-Engineering.git`
-2. `cd AIM5005-Package-Feature-Engineering`
-3. `make install`
-4. You can ensure the tests pass by running `make` (which defaults to `make tests`)
-
-### Use
-- `make` will build and run all tests
-- `make lr` will only run the tests for linear regression
-- `make features` will run the test for features (this is your first assignment)
-
----
-
 ### Assignment Description
 
 This project focuses on creating custom implementations of machine learning features, inspired by the `sklearn` API. The main objectives of this assignment include:
@@ -51,7 +36,7 @@ This project focuses on creating custom implementations of machine learning feat
 ---
 
 ### Installation and Usage
-
- Clone this repository:
-   ```bash
-   git clone https://github.com/Parlynx1/AIM5005-Package-Feature-Engineering.git
+1. `git clone git@github.com:Parlynx1/AIM5005-Package-Feature-Engineering.git`
+2. `cd AIM5005-Package-Feature-Engineering`
+3. `make install`
+4. You can ensure the tests pass by running `make` (which defaults to `make tests`)
